@@ -1,0 +1,11 @@
+// "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
+
+$body-bg: #f1c40f;
+$navbar-default-bg: #34495e;
+$navbar-default-link-color: #ecf0f1;
+$brand-primary: #d35400;
+// $jumbotron-bg:
+
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
